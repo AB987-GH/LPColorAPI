@@ -1,0 +1,3 @@
+name: LPColorAPI
+version: '${project.version}'
+main: dev.ab.lpcolorapi.LPColorAPI
